@@ -1,0 +1,3253 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BackOffice_Melair
+</name>
+</assembly>
+<members>
+<member name="T:BackOffice_Melair.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.Application">
+ <summary>
+ Returns information about the current application.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="P:BackOffice_Melair.My.MyWebExtension.WebServices">
+ <summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member>
+<member name="T:BackOffice_Melair.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:BackOffice_Melair.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:BackOffice_Melair.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="F:BackOffice_Melair.ChangePassword._ChangeUserPassword">
+<summary>
+ChangeUserPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login._RegisterHyperLink">
+<summary>
+RegisterHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login._LoginUser">
+<summary>
+LoginUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register._RegisterUser">
+<summary>
+RegisterUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register._RegisterUserWizardStep">
+<summary>
+RegisterUserWizardStep control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._flights">
+<summary>
+Control flights.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightCompany">
+<summary>
+Control selectFlightCompany.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textCompany">
+<summary>
+Control textCompany.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightLogo">
+<summary>
+Control selectFlightLogo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightLogo">
+<summary>
+Control textFlightLogo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightCity">
+<summary>
+Control selectFlightCity.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightCity">
+<summary>
+Control textFlightCity.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightDescription">
+<summary>
+Control selectFlightDescription.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightDescription">
+<summary>
+Control textFlightDescription.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightCabinsPerCity">
+<summary>
+Control selectFlightCabinsPerCity.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightCabinsPerCity">
+<summary>
+Control textFlightCabinsPerCity.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightStatus">
+<summary>
+Control selectFlightStatus.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightStatus">
+<summary>
+Control textFlightStatus.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightCode">
+<summary>
+Control selectFlightCode.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightCode">
+<summary>
+Control textFlightCode.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightTime">
+<summary>
+Control selectFlightTime.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightTime">
+<summary>
+Control textFlightTime.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightTaxes">
+<summary>
+Control selectFlightTaxes.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightTaxes">
+<summary>
+Control textFlightTaxes.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightReturn">
+<summary>
+Control selectFlightReturn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightReturn">
+<summary>
+Control textFlightReturn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightReturnTime">
+<summary>
+Control selectFlightReturnTime.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightReturnTime">
+<summary>
+Control textFlightReturnTime.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightTransfer">
+<summary>
+Control selectFlightTransfer.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightTransfer">
+<summary>
+Control textFlightTransfer.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightHotel">
+<summary>
+Control selectFlightHotel.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightHotel">
+<summary>
+Control textFlightHotel.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._selectFlightOfferDescription">
+<summary>
+Control selectFlightOfferDescription.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.editFlight._textFlightOfferDescription">
+<summary>
+Control textFlightOfferDescription.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._scriptManager">
+<summary>
+scriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._msgHdr">
+<summary>
+msgHdr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._msgLbl">
+<summary>
+msgLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._msgBtn">
+<summary>
+msgBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadCtrl1">
+<summary>
+uploadCtrl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._img1Lbl">
+<summary>
+img1Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadCtrl2">
+<summary>
+uploadCtrl2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._img2Lbl">
+<summary>
+img2Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadCtrl3">
+<summary>
+uploadCtrl3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._img3Lbl">
+<summary>
+img3Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadCtrl4">
+<summary>
+uploadCtrl4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._img4Lbl">
+<summary>
+img4Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadCtrl5">
+<summary>
+uploadCtrl5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._img5Lbl">
+<summary>
+img5Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._saveImagesBtn">
+<summary>
+saveImagesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._titleLbl">
+<summary>
+titleLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectImages">
+<summary>
+selectImages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._uploadBtn">
+<summary>
+uploadBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._imagesLbl">
+<summary>
+imagesLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectItineraryName">
+<summary>
+selectItineraryName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._itinNameField">
+<summary>
+itinNameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._nameField">
+<summary>
+nameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectDining">
+<summary>
+selectDining control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._diningField">
+<summary>
+diningField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectIncluded">
+<summary>
+selectIncluded control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._includedField">
+<summary>
+includedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectNotIncluded">
+<summary>
+selectNotIncluded control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._notIncludedField">
+<summary>
+notIncludedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectNotes">
+<summary>
+selectNotes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._notesField">
+<summary>
+notesField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightCompany">
+<summary>
+selectFlightCompany control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._listFlightCompany">
+<summary>
+listFlightCompany control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._imageFlightLogo">
+<summary>
+imageFlightLogo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightCity">
+<summary>
+selectFlightCity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._listFlightCity">
+<summary>
+listFlightCity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightCityDest">
+<summary>
+selectFlightCityDest control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightCityDest">
+<summary>
+textFlightCityDest control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightDescription">
+<summary>
+selectFlightDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightDescription">
+<summary>
+textFlightDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightCabinsPerCity">
+<summary>
+selectFlightCabinsPerCity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightCabinsPerCity">
+<summary>
+textFlightCabinsPerCity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightStatus">
+<summary>
+selectFlightStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._listFlightStatus">
+<summary>
+listFlightStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightCode">
+<summary>
+selectFlightCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightCode">
+<summary>
+textFlightCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightTime">
+<summary>
+selectFlightTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightTime">
+<summary>
+textFlightTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightTaxes">
+<summary>
+selectFlightTaxes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightTaxes">
+<summary>
+textFlightTaxes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightReturn">
+<summary>
+selectFlightReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightReturn">
+<summary>
+textFlightReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightReturnTime">
+<summary>
+selectFlightReturnTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightReturnTime">
+<summary>
+textFlightReturnTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightTransfer">
+<summary>
+selectFlightTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightTransfer">
+<summary>
+textFlightTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightHotel">
+<summary>
+selectFlightHotel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightHotel">
+<summary>
+textFlightHotel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectFlightOfferDescription">
+<summary>
+selectFlightOfferDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._textFlightOfferDescription">
+<summary>
+textFlightOfferDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._saveFlightBtn">
+<summary>
+saveFlightBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._pricesTable">
+<summary>
+pricesTable control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt1">
+<summary>
+cInt1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt1">
+<summary>
+tInt1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt2">
+<summary>
+cInt2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt2">
+<summary>
+tInt2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt3">
+<summary>
+cInt3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt3">
+<summary>
+tInt3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt4">
+<summary>
+cInt4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt4">
+<summary>
+tInt4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt5">
+<summary>
+cInt5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt5">
+<summary>
+tInt5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt6">
+<summary>
+cInt6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt6">
+<summary>
+tInt6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cInt7">
+<summary>
+cInt7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tInt7">
+<summary>
+tInt7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt1">
+<summary>
+cExt1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt1">
+<summary>
+tExt1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt2">
+<summary>
+cExt2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt2">
+<summary>
+tExt2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt3">
+<summary>
+cExt3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt3">
+<summary>
+tExt3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt4">
+<summary>
+cExt4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt4">
+<summary>
+tExt4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt5">
+<summary>
+cExt5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt5">
+<summary>
+tExt5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt6">
+<summary>
+cExt6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt6">
+<summary>
+tExt6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cExt7">
+<summary>
+cExt7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tExt7">
+<summary>
+tExt7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal1">
+<summary>
+cBal1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal1">
+<summary>
+tBal1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal2">
+<summary>
+cBal2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal2">
+<summary>
+tBal2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal3">
+<summary>
+cBal3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal3">
+<summary>
+tBal3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal4">
+<summary>
+cBal4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal4">
+<summary>
+tBal4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal5">
+<summary>
+cBal5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal5">
+<summary>
+tBal5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal6">
+<summary>
+cBal6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal6">
+<summary>
+tBal6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cBal7">
+<summary>
+cBal7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tBal7">
+<summary>
+tBal7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui1">
+<summary>
+cSui1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui1">
+<summary>
+tSui1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui2">
+<summary>
+cSui2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui2">
+<summary>
+tSui2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui3">
+<summary>
+cSui3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui3">
+<summary>
+tSui3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui4">
+<summary>
+cSui4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui4">
+<summary>
+tSui4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui5">
+<summary>
+cSui5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui5">
+<summary>
+tSui5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui6">
+<summary>
+cSui6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui6">
+<summary>
+tSui6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._cSui7">
+<summary>
+cSui7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._tSui7">
+<summary>
+tSui7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectAllBtn">
+<summary>
+selectAllBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._unselectAllBtn">
+<summary>
+unselectAllBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectIntBtn">
+<summary>
+selectIntBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectExtBtn">
+<summary>
+selectExtBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectBalBtn">
+<summary>
+selectBalBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._selectSuiBtn">
+<summary>
+selectSuiBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._savePricesBtn">
+<summary>
+savePricesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._backBtn">
+<summary>
+backBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._editRegisterBtn">
+<summary>
+editRegisterBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._editFlightBtn">
+<summary>
+editFlightBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditMultiplePackages._editPricesBtn">
+<summary>
+editPricesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._scriptManager">
+<summary>
+scriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._msgHdr">
+<summary>
+msgHdr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._msgLbl">
+<summary>
+msgLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._msgBtn">
+<summary>
+msgBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._confirmLbl">
+<summary>
+confirmLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._yesBtn">
+<summary>
+yesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._noBtn">
+<summary>
+noBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadCtrl1">
+<summary>
+uploadCtrl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._img1Lbl">
+<summary>
+img1Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadCtrl2">
+<summary>
+uploadCtrl2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._img2Lbl">
+<summary>
+img2Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadCtrl3">
+<summary>
+uploadCtrl3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._img3Lbl">
+<summary>
+img3Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadCtrl4">
+<summary>
+uploadCtrl4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._img4Lbl">
+<summary>
+img4Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadCtrl5">
+<summary>
+uploadCtrl5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._img5Lbl">
+<summary>
+img5Lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._saveImagesBtn">
+<summary>
+saveImagesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightDetailsDiv">
+<summary>
+flightDetailsDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightInfoDiv">
+<summary>
+flightInfoDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightBasicDiv">
+<summary>
+flightBasicDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightCode">
+<summary>
+flightCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightDate">
+<summary>
+flightDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightHour">
+<summary>
+flightHour control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightTaxes">
+<summary>
+flightTaxes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._returnFlight">
+<summary>
+returnFlight control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._returnFlightTime">
+<summary>
+returnFlightTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightExtraDiv">
+<summary>
+flightExtraDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightTransfer">
+<summary>
+flightTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightHotel">
+<summary>
+flightHotel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._offerField">
+<summary>
+offerField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightPricesDiv">
+<summary>
+flightPricesDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._pricesTbl">
+<summary>
+pricesTbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int1">
+<summary>
+int1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int2">
+<summary>
+int2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int3">
+<summary>
+int3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int4">
+<summary>
+int4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int5">
+<summary>
+int5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int6">
+<summary>
+int6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._int7">
+<summary>
+int7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext1">
+<summary>
+ext1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext2">
+<summary>
+ext2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext3">
+<summary>
+ext3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext4">
+<summary>
+ext4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext5">
+<summary>
+ext5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext6">
+<summary>
+ext6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._ext7">
+<summary>
+ext7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal1">
+<summary>
+bal1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal2">
+<summary>
+bal2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal3">
+<summary>
+bal3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal4">
+<summary>
+bal4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal5">
+<summary>
+bal5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal6">
+<summary>
+bal6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._bal7">
+<summary>
+bal7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su1">
+<summary>
+su1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su2">
+<summary>
+su2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su3">
+<summary>
+su3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su4">
+<summary>
+su4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su5">
+<summary>
+su5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su6">
+<summary>
+su6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._su7">
+<summary>
+su7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._exitBtn">
+<summary>
+exitBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._saveBtn">
+<summary>
+saveBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._lines">
+<summary>
+lines control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._linesPanel">
+<summary>
+linesPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._linesDiv">
+<summary>
+linesDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._linesGrid">
+<summary>
+linesGrid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._lineBtn">
+<summary>
+lineBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._exitLinesBtn">
+<summary>
+exitLinesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._saveLinesBtn">
+<summary>
+saveLinesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._loadPanel">
+<summary>
+loadPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._titleLbl">
+<summary>
+titleLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._uploadBtn">
+<summary>
+uploadBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._imagesLbl">
+<summary>
+imagesLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._itinNameField">
+<summary>
+itinNameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._nameField">
+<summary>
+nameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._diningField">
+<summary>
+diningField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._includedField">
+<summary>
+includedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._notIncludedField">
+<summary>
+notIncludedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._notesField">
+<summary>
+notesField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._gridView">
+<summary>
+gridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._flightBtn">
+<summary>
+flightBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._backBtn">
+<summary>
+backBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.EditPackage._editRegisterBtn">
+<summary>
+editRegisterBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._scriptManager">
+<summary>
+Control scriptManager.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._msgLbl">
+<summary>
+Control msgLbl.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._msgBtn">
+<summary>
+Control msgBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._loadPanel">
+<summary>
+Control loadPanel.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._gridView">
+<summary>
+Control gridView.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._lineBtn">
+<summary>
+Control lineBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._skipBtn">
+<summary>
+Control skipBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Extra._finishBtn">
+<summary>
+Control finishBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._msgLbl">
+<summary>
+msgLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._scriptManager">
+<summary>
+scriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._userField">
+<summary>
+userField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._passField">
+<summary>
+passField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Login1._loginBtn">
+<summary>
+loginBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._Head1">
+<summary>
+Control Head1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._tblForm">
+<summary>
+Control tblForm.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._scriptManager">
+<summary>
+Control scriptManager.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._msgHdr">
+<summary>
+Control msgHdr.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._msgLbl">
+<summary>
+Control msgLbl.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._msgBtn">
+<summary>
+Control msgBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._confirmLbl">
+<summary>
+Control confirmLbl.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._yesBtn">
+<summary>
+Control yesBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._gridView">
+<summary>
+Control gridView.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._openBtn">
+<summary>
+Control openBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Packages._logoutBtn">
+<summary>
+Control logoutBtn.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._scriptManager">
+<summary>
+scriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._msgHdr">
+<summary>
+msgHdr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._msgLbl">
+<summary>
+msgLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._msgBtn">
+<summary>
+msgBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._confirmLbl">
+<summary>
+confirmLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._yesBtn">
+<summary>
+yesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._noBtn">
+<summary>
+noBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._uploadCtrl1">
+<summary>
+uploadCtrl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._uploadCtrl2">
+<summary>
+uploadCtrl2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._uploadCtrl3">
+<summary>
+uploadCtrl3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._uploadCtrl4">
+<summary>
+uploadCtrl4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._uploadCtrl5">
+<summary>
+uploadCtrl5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._saveImagesBtn">
+<summary>
+saveImagesBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._prices">
+<summary>
+prices control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._pricesPanel">
+<summary>
+pricesPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._repDiv">
+<summary>
+repDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._UpdatePanel2">
+<summary>
+UpdatePanel2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._rep">
+<summary>
+rep control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._exitBtn">
+<summary>
+exitBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._saveBtn">
+<summary>
+saveBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._loadPanel">
+<summary>
+loadPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._registerDiv">
+<summary>
+registerDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._basicDiv">
+<summary>
+basicDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._shipSelector">
+<summary>
+shipSelector control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._sailField">
+<summary>
+sailField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._searchBtn">
+<summary>
+searchBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._hideDiv">
+<summary>
+hideDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._UpdatePanel3">
+<summary>
+UpdatePanel3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._nightsText">
+<summary>
+nightsText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._destinyText">
+<summary>
+destinyText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._itinTbl">
+<summary>
+itinTbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._itinHeader">
+<summary>
+itinHeader control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._imagesLbl">
+<summary>
+imagesLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._itinNameField">
+<summary>
+itinNameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._nameField">
+<summary>
+nameField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._diningField">
+<summary>
+diningField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._includedField">
+<summary>
+includedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._notIncludedField">
+<summary>
+notIncludedField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._notesField">
+<summary>
+notesField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._rblDiasVuelo">
+<summary>
+rblDiasVuelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._tipoVuelo">
+<summary>
+tipoVuelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._gridView">
+<summary>
+gridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._flightBtn">
+<summary>
+flightBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._backBtn">
+<summary>
+backBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Register1._registerBtn">
+<summary>
+registerBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.test._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._MasterPageScriptManager">
+<summary>
+MasterPageScriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._HeadLoginView">
+<summary>
+HeadLoginView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._HeadHomeLink">
+<summary>
+HeadHomeLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._HeadAboutLink">
+<summary>
+HeadAboutLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.Site._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._frDuplicar">
+<summary>
+frDuplicar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._scriptManager">
+<summary>
+scriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._msgHdr">
+<summary>
+msgHdr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._msgLbl">
+<summary>
+msgLbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._msgBtn">
+<summary>
+msgBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._loadPanel">
+<summary>
+loadPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._registerDiv">
+<summary>
+registerDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._basicDiv">
+<summary>
+basicDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._shipSelector">
+<summary>
+shipSelector control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._sailField">
+<summary>
+sailField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._searchBtn">
+<summary>
+searchBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._hideDiv">
+<summary>
+hideDiv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._UpdatePanel3">
+<summary>
+UpdatePanel3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._nightsText">
+<summary>
+nightsText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._destinyText">
+<summary>
+destinyText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._itinTbl">
+<summary>
+itinTbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._itinHeader">
+<summary>
+itinHeader control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._nuevoNombre">
+<summary>
+nuevoNombre control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._rblDiasVuelo">
+<summary>
+rblDiasVuelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._backBtn">
+<summary>
+backBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BackOffice_Melair.WebForm1._registerBtn">
+<summary>
+registerBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

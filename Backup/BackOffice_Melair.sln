@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BackOffice_Melair", "BackOffice_Melair\BackOffice_Melair.vbproj", "{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{AF5D749D-DBF4-4067-BAAF-8DF1D646AA90}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

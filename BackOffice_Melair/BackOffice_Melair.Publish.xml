@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Inetpub\wwwroot\Publicaciones\Melair" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/BackOffice_Melair.pdb" publishTime="03/21/2017 15:17:16" />
+    <file relUrl="test.aspx" publishTime="12/23/2016 09:31:44" />
+    <file relUrl="Styles/wickedpicker.css" publishTime="09/06/2016 16:06:35" />
+    <file relUrl="Images/Logos/emirates_logo.jpg" publishTime="09/09/2016 09:10:00" />
+    <file relUrl="Site.Master" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="EditMultiplePackages.aspx" publishTime="12/28/2016 13:12:44" />
+    <file relUrl="EditPackage.aspx" publishTime="01/11/2017 17:40:37" />
+    <file relUrl="bin/BackOffice_Melair.dll" publishTime="03/21/2017 15:17:16" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Scripts/jquery.ui.datepicker-pt.js" publishTime="07/18/2016 09:37:38" />
+    <file relUrl="Styles/style.css" publishTime="03/08/2017 12:57:30" />
+    <file relUrl="Scripts/wickedpicker.js" publishTime="08/16/2016 01:13:01" />
+    <file relUrl="Account/Register.aspx" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Scripts/jsFunctions.js" publishTime="09/01/2016 14:23:14" />
+    <file relUrl="Images/Logos/tap_logo.png" publishTime="08/17/2016 13:53:27" />
+    <file relUrl="Scripts/jquery-3.1.0.js" publishTime="08/31/2016 17:05:21" />
+    <file relUrl="Account/Web.config" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Account/Login.aspx" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Register.aspx" publishTime="03/21/2017 09:34:47" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="loadingAnim.gif" publishTime="10/16/2015 10:28:57" />
+    <file relUrl="Global.asax" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/27/2016 11:32:24" />
+    <file relUrl="bin/BackOffice_Melair.xml" publishTime="03/21/2017 15:17:16" />
+    <file relUrl="Login.aspx" publishTime="09/09/2016 12:19:02" />
+    <file relUrl="Web.config" publishTime="03/21/2017 15:21:12" />
+    <file relUrl="Scripts/bootstrap.min.js" publishTime="12/29/2016 13:49:40" />
+    <file relUrl="Packages.aspx" publishTime="01/10/2017 17:02:26" />
+    <file relUrl="Extra.aspx" publishTime="09/06/2016 12:38:43" />
+    <file relUrl="Styles/bootstrap.min.css" publishTime="07/25/2016 15:53:28" />
+    <file relUrl="royal_logo.png" publishTime="07/13/2016 11:01:15" />
+    <file relUrl="editFlight.aspx" publishTime="12/22/2016 18:27:57" />
+    <file relUrl="DuplicarPackage.aspx" publishTime="11/14/2016 16:17:48" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/27/2016 11:32:24" />
+  </publishProfile>
+</publishData>

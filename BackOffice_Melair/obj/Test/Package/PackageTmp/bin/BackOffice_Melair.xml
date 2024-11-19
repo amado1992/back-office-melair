@@ -1,0 +1,2852 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BackOffice_Melair
+</name>
+</assembly>
+<members>
+<member name="F:BackOffice_Melair.WebForm1.frDuplicar">
+	<summary>
+Control frDuplicar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.msgHdr">
+	<summary>
+Control msgHdr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.loadPanel">
+	<summary>
+Control loadPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.registerDiv">
+	<summary>
+Control registerDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.basicDiv">
+	<summary>
+Control basicDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.shipSelector">
+	<summary>
+Control shipSelector.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.sailField">
+	<summary>
+Control sailField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.searchBtn">
+	<summary>
+Control searchBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.hideDiv">
+	<summary>
+Control hideDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.UpdatePanel3">
+	<summary>
+Control UpdatePanel3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.nightsText">
+	<summary>
+Control nightsText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.destinyText">
+	<summary>
+Control destinyText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.itinTbl">
+	<summary>
+Control itinTbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.itinHeader">
+	<summary>
+Control itinHeader.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.nuevoNombre">
+	<summary>
+Control nuevoNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.rblDiasVuelo">
+	<summary>
+Control rblDiasVuelo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.backBtn">
+	<summary>
+Control backBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.WebForm1.registerBtn">
+	<summary>
+Control registerBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.msgHdr">
+	<summary>
+Control msgHdr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadCtrl1">
+	<summary>
+Control uploadCtrl1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.img1Lbl">
+	<summary>
+Control img1Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadCtrl2">
+	<summary>
+Control uploadCtrl2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.img2Lbl">
+	<summary>
+Control img2Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadCtrl3">
+	<summary>
+Control uploadCtrl3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.img3Lbl">
+	<summary>
+Control img3Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadCtrl4">
+	<summary>
+Control uploadCtrl4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.img4Lbl">
+	<summary>
+Control img4Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadCtrl5">
+	<summary>
+Control uploadCtrl5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.img5Lbl">
+	<summary>
+Control img5Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.saveImagesBtn">
+	<summary>
+Control saveImagesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.titleLbl">
+	<summary>
+Control titleLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectImages">
+	<summary>
+Control selectImages.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.uploadBtn">
+	<summary>
+Control uploadBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.imagesLbl">
+	<summary>
+Control imagesLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectItineraryName">
+	<summary>
+Control selectItineraryName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.itinNameField">
+	<summary>
+Control itinNameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.nameField">
+	<summary>
+Control nameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectDining">
+	<summary>
+Control selectDining.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.diningField">
+	<summary>
+Control diningField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectIncluded">
+	<summary>
+Control selectIncluded.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.includedField">
+	<summary>
+Control includedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectNotIncluded">
+	<summary>
+Control selectNotIncluded.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.notIncludedField">
+	<summary>
+Control notIncludedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectNotes">
+	<summary>
+Control selectNotes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.notesField">
+	<summary>
+Control notesField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightCompany">
+	<summary>
+Control selectFlightCompany.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.listFlightCompany">
+	<summary>
+Control listFlightCompany.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.imageFlightLogo">
+	<summary>
+Control imageFlightLogo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightCity">
+	<summary>
+Control selectFlightCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.listFlightCity">
+	<summary>
+Control listFlightCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightDescription">
+	<summary>
+Control selectFlightDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightDescription">
+	<summary>
+Control textFlightDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightCabinsPerCity">
+	<summary>
+Control selectFlightCabinsPerCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightCabinsPerCity">
+	<summary>
+Control textFlightCabinsPerCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightStatus">
+	<summary>
+Control selectFlightStatus.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.listFlightStatus">
+	<summary>
+Control listFlightStatus.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightCode">
+	<summary>
+Control selectFlightCode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightCode">
+	<summary>
+Control textFlightCode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightTime">
+	<summary>
+Control selectFlightTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightTime">
+	<summary>
+Control textFlightTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightTaxes">
+	<summary>
+Control selectFlightTaxes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightTaxes">
+	<summary>
+Control textFlightTaxes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightReturn">
+	<summary>
+Control selectFlightReturn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightReturn">
+	<summary>
+Control textFlightReturn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightReturnTime">
+	<summary>
+Control selectFlightReturnTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightReturnTime">
+	<summary>
+Control textFlightReturnTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightTransfer">
+	<summary>
+Control selectFlightTransfer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightTransfer">
+	<summary>
+Control textFlightTransfer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightHotel">
+	<summary>
+Control selectFlightHotel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightHotel">
+	<summary>
+Control textFlightHotel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectFlightOfferDescription">
+	<summary>
+Control selectFlightOfferDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.textFlightOfferDescription">
+	<summary>
+Control textFlightOfferDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.saveFlightBtn">
+	<summary>
+Control saveFlightBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.pricesTable">
+	<summary>
+Control pricesTable.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt1">
+	<summary>
+Control cInt1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt1">
+	<summary>
+Control tInt1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt2">
+	<summary>
+Control cInt2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt2">
+	<summary>
+Control tInt2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt3">
+	<summary>
+Control cInt3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt3">
+	<summary>
+Control tInt3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt4">
+	<summary>
+Control cInt4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt4">
+	<summary>
+Control tInt4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt5">
+	<summary>
+Control cInt5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt5">
+	<summary>
+Control tInt5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt6">
+	<summary>
+Control cInt6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt6">
+	<summary>
+Control tInt6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cInt7">
+	<summary>
+Control cInt7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tInt7">
+	<summary>
+Control tInt7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt1">
+	<summary>
+Control cExt1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt1">
+	<summary>
+Control tExt1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt2">
+	<summary>
+Control cExt2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt2">
+	<summary>
+Control tExt2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt3">
+	<summary>
+Control cExt3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt3">
+	<summary>
+Control tExt3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt4">
+	<summary>
+Control cExt4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt4">
+	<summary>
+Control tExt4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt5">
+	<summary>
+Control cExt5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt5">
+	<summary>
+Control tExt5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt6">
+	<summary>
+Control cExt6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt6">
+	<summary>
+Control tExt6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cExt7">
+	<summary>
+Control cExt7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tExt7">
+	<summary>
+Control tExt7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal1">
+	<summary>
+Control cBal1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal1">
+	<summary>
+Control tBal1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal2">
+	<summary>
+Control cBal2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal2">
+	<summary>
+Control tBal2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal3">
+	<summary>
+Control cBal3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal3">
+	<summary>
+Control tBal3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal4">
+	<summary>
+Control cBal4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal4">
+	<summary>
+Control tBal4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal5">
+	<summary>
+Control cBal5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal5">
+	<summary>
+Control tBal5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal6">
+	<summary>
+Control cBal6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal6">
+	<summary>
+Control tBal6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cBal7">
+	<summary>
+Control cBal7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tBal7">
+	<summary>
+Control tBal7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui1">
+	<summary>
+Control cSui1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui1">
+	<summary>
+Control tSui1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui2">
+	<summary>
+Control cSui2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui2">
+	<summary>
+Control tSui2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui3">
+	<summary>
+Control cSui3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui3">
+	<summary>
+Control tSui3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui4">
+	<summary>
+Control cSui4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui4">
+	<summary>
+Control tSui4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui5">
+	<summary>
+Control cSui5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui5">
+	<summary>
+Control tSui5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui6">
+	<summary>
+Control cSui6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui6">
+	<summary>
+Control tSui6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.cSui7">
+	<summary>
+Control cSui7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.tSui7">
+	<summary>
+Control tSui7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectAllBtn">
+	<summary>
+Control selectAllBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.unselectAllBtn">
+	<summary>
+Control unselectAllBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectIntBtn">
+	<summary>
+Control selectIntBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectExtBtn">
+	<summary>
+Control selectExtBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectBalBtn">
+	<summary>
+Control selectBalBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.selectSuiBtn">
+	<summary>
+Control selectSuiBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.savePricesBtn">
+	<summary>
+Control savePricesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.backBtn">
+	<summary>
+Control backBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.editRegisterBtn">
+	<summary>
+Control editRegisterBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.editFlightBtn">
+	<summary>
+Control editFlightBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditMultiplePackages.editPricesBtn">
+	<summary>
+Control editPricesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:BackOffice_Melair.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:BackOffice_Melair.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:BackOffice_Melair.Register1.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.msgHdr">
+	<summary>
+Control msgHdr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.confirmLbl">
+	<summary>
+Control confirmLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.yesBtn">
+	<summary>
+Control yesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.noBtn">
+	<summary>
+Control noBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.uploadCtrl1">
+	<summary>
+Control uploadCtrl1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.uploadCtrl2">
+	<summary>
+Control uploadCtrl2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.uploadCtrl3">
+	<summary>
+Control uploadCtrl3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.uploadCtrl4">
+	<summary>
+Control uploadCtrl4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.uploadCtrl5">
+	<summary>
+Control uploadCtrl5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.saveImagesBtn">
+	<summary>
+Control saveImagesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.UpdatePanel1">
+	<summary>
+Control UpdatePanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.prices">
+	<summary>
+Control prices.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.pricesPanel">
+	<summary>
+Control pricesPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.repDiv">
+	<summary>
+Control repDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.UpdatePanel2">
+	<summary>
+Control UpdatePanel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.rep">
+	<summary>
+Control rep.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.exitBtn">
+	<summary>
+Control exitBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.saveBtn">
+	<summary>
+Control saveBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.loadPanel">
+	<summary>
+Control loadPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.registerDiv">
+	<summary>
+Control registerDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.basicDiv">
+	<summary>
+Control basicDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.shipSelector">
+	<summary>
+Control shipSelector.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.sailField">
+	<summary>
+Control sailField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.searchBtn">
+	<summary>
+Control searchBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.hideDiv">
+	<summary>
+Control hideDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.UpdatePanel3">
+	<summary>
+Control UpdatePanel3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.nightsText">
+	<summary>
+Control nightsText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.destinyText">
+	<summary>
+Control destinyText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.itinTbl">
+	<summary>
+Control itinTbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.itinHeader">
+	<summary>
+Control itinHeader.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.imagesLbl">
+	<summary>
+Control imagesLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.itinNameField">
+	<summary>
+Control itinNameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.nameField">
+	<summary>
+Control nameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.diningField">
+	<summary>
+Control diningField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.includedField">
+	<summary>
+Control includedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.notIncludedField">
+	<summary>
+Control notIncludedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.notesField">
+	<summary>
+Control notesField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.rblDiasVuelo">
+	<summary>
+Control rblDiasVuelo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.gridView">
+	<summary>
+Control gridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.flightBtn">
+	<summary>
+Control flightBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.backBtn">
+	<summary>
+Control backBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Register1.registerBtn">
+	<summary>
+Control registerBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.flights">
+	<summary>
+Control flights.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightCompany">
+	<summary>
+Control selectFlightCompany.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textCompany">
+	<summary>
+Control textCompany.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightLogo">
+	<summary>
+Control selectFlightLogo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightLogo">
+	<summary>
+Control textFlightLogo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightCity">
+	<summary>
+Control selectFlightCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightCity">
+	<summary>
+Control textFlightCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightDescription">
+	<summary>
+Control selectFlightDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightDescription">
+	<summary>
+Control textFlightDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightCabinsPerCity">
+	<summary>
+Control selectFlightCabinsPerCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightCabinsPerCity">
+	<summary>
+Control textFlightCabinsPerCity.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightStatus">
+	<summary>
+Control selectFlightStatus.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightStatus">
+	<summary>
+Control textFlightStatus.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightCode">
+	<summary>
+Control selectFlightCode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightCode">
+	<summary>
+Control textFlightCode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightTime">
+	<summary>
+Control selectFlightTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightTime">
+	<summary>
+Control textFlightTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightTaxes">
+	<summary>
+Control selectFlightTaxes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightTaxes">
+	<summary>
+Control textFlightTaxes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightReturn">
+	<summary>
+Control selectFlightReturn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightReturn">
+	<summary>
+Control textFlightReturn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightReturnTime">
+	<summary>
+Control selectFlightReturnTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightReturnTime">
+	<summary>
+Control textFlightReturnTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightTransfer">
+	<summary>
+Control selectFlightTransfer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightTransfer">
+	<summary>
+Control textFlightTransfer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightHotel">
+	<summary>
+Control selectFlightHotel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightHotel">
+	<summary>
+Control textFlightHotel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.selectFlightOfferDescription">
+	<summary>
+Control selectFlightOfferDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.editFlight.textFlightOfferDescription">
+	<summary>
+Control textFlightOfferDescription.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.loadPanel">
+	<summary>
+Control loadPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.gridView">
+	<summary>
+Control gridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.lineBtn">
+	<summary>
+Control lineBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.skipBtn">
+	<summary>
+Control skipBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Extra.finishBtn">
+	<summary>
+Control finishBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.tblForm">
+	<summary>
+Control tblForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.msgHdr">
+	<summary>
+Control msgHdr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.confirmLbl">
+	<summary>
+Control confirmLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.yesBtn">
+	<summary>
+Control yesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.gridView">
+	<summary>
+Control gridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.openBtn">
+	<summary>
+Control openBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Packages.logoutBtn">
+	<summary>
+Control logoutBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login.LoginUser">
+	<summary>
+LoginUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.userField">
+	<summary>
+Control userField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.passField">
+	<summary>
+Control passField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Login1.loginBtn">
+	<summary>
+Control loginBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.scriptManager">
+	<summary>
+Control scriptManager.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.msgHdr">
+	<summary>
+Control msgHdr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.msgLbl">
+	<summary>
+Control msgLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.msgBtn">
+	<summary>
+Control msgBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.confirmLbl">
+	<summary>
+Control confirmLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.yesBtn">
+	<summary>
+Control yesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.noBtn">
+	<summary>
+Control noBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadCtrl1">
+	<summary>
+Control uploadCtrl1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.img1Lbl">
+	<summary>
+Control img1Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadCtrl2">
+	<summary>
+Control uploadCtrl2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.img2Lbl">
+	<summary>
+Control img2Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadCtrl3">
+	<summary>
+Control uploadCtrl3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.img3Lbl">
+	<summary>
+Control img3Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadCtrl4">
+	<summary>
+Control uploadCtrl4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.img4Lbl">
+	<summary>
+Control img4Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadCtrl5">
+	<summary>
+Control uploadCtrl5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.img5Lbl">
+	<summary>
+Control img5Lbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.saveImagesBtn">
+	<summary>
+Control saveImagesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightDetailsDiv">
+	<summary>
+Control flightDetailsDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightInfoDiv">
+	<summary>
+Control flightInfoDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightBasicDiv">
+	<summary>
+Control flightBasicDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightCode">
+	<summary>
+Control flightCode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightDate">
+	<summary>
+Control flightDate.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightHour">
+	<summary>
+Control flightHour.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightTaxes">
+	<summary>
+Control flightTaxes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.returnFlight">
+	<summary>
+Control returnFlight.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.returnFlightTime">
+	<summary>
+Control returnFlightTime.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightExtraDiv">
+	<summary>
+Control flightExtraDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightTransfer">
+	<summary>
+Control flightTransfer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightHotel">
+	<summary>
+Control flightHotel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.offerField">
+	<summary>
+Control offerField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightPricesDiv">
+	<summary>
+Control flightPricesDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.pricesTbl">
+	<summary>
+Control pricesTbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int1">
+	<summary>
+Control int1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int2">
+	<summary>
+Control int2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int3">
+	<summary>
+Control int3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int4">
+	<summary>
+Control int4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int5">
+	<summary>
+Control int5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int6">
+	<summary>
+Control int6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.int7">
+	<summary>
+Control int7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext1">
+	<summary>
+Control ext1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext2">
+	<summary>
+Control ext2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext3">
+	<summary>
+Control ext3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext4">
+	<summary>
+Control ext4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext5">
+	<summary>
+Control ext5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext6">
+	<summary>
+Control ext6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.ext7">
+	<summary>
+Control ext7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal1">
+	<summary>
+Control bal1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal2">
+	<summary>
+Control bal2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal3">
+	<summary>
+Control bal3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal4">
+	<summary>
+Control bal4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal5">
+	<summary>
+Control bal5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal6">
+	<summary>
+Control bal6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.bal7">
+	<summary>
+Control bal7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su1">
+	<summary>
+Control su1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su2">
+	<summary>
+Control su2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su3">
+	<summary>
+Control su3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su4">
+	<summary>
+Control su4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su5">
+	<summary>
+Control su5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su6">
+	<summary>
+Control su6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.su7">
+	<summary>
+Control su7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.exitBtn">
+	<summary>
+Control exitBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.saveBtn">
+	<summary>
+Control saveBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.lines">
+	<summary>
+Control lines.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.linesPanel">
+	<summary>
+Control linesPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.linesDiv">
+	<summary>
+Control linesDiv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.linesGrid">
+	<summary>
+Control linesGrid.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.lineBtn">
+	<summary>
+Control lineBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.exitLinesBtn">
+	<summary>
+Control exitLinesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.saveLinesBtn">
+	<summary>
+Control saveLinesBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.loadPanel">
+	<summary>
+Control loadPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.titleLbl">
+	<summary>
+Control titleLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.uploadBtn">
+	<summary>
+Control uploadBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.imagesLbl">
+	<summary>
+Control imagesLbl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.itinNameField">
+	<summary>
+Control itinNameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.nameField">
+	<summary>
+Control nameField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.diningField">
+	<summary>
+Control diningField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.includedField">
+	<summary>
+Control includedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.notIncludedField">
+	<summary>
+Control notIncludedField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.notesField">
+	<summary>
+Control notesField.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.gridView">
+	<summary>
+Control gridView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.flightBtn">
+	<summary>
+Control flightBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.backBtn">
+	<summary>
+Control backBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.EditPackage.editRegisterBtn">
+	<summary>
+Control editRegisterBtn.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.test.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.MasterPageScriptManager">
+	<summary>
+MasterPageScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.HeadLoginView">
+	<summary>
+HeadLoginView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.HeadHomeLink">
+	<summary>
+HeadHomeLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.HeadAboutLink">
+	<summary>
+HeadAboutLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:BackOffice_Melair.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

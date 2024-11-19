@@ -1,0 +1,682 @@
+﻿body 
+{
+    margin: 0;
+}
+
+.header
+{
+    width: 100%;
+    height: 150px;
+    margin-bottom: 30px;
+    background-color: #66b3ff;  
+}
+
+.header img
+{
+    width: 340px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 35px;
+    margin-top: 5px;
+    height: 105px;
+}
+
+.header h1
+{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    color: white;
+    font-size: 80px;
+    padding-left: 35%;
+    padding-top: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.openBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 25px;
+}
+
+#logoutBtn
+{
+    float: right;   
+}
+
+#openBtn, #logoutBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 20px;
+}
+
+#sailData
+{
+    float: right;   
+}
+
+#shipSelector
+{
+    float: right;   
+}
+
+.titleDiv
+{
+    padding-left: 25px;   
+    margin-bottom: 35px;
+}
+
+#titleLbl
+{
+    font-size: 24px;
+}
+
+.loginFields
+{
+    font-weight: bold;   
+}
+
+#loginBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 20px;
+}
+
+#registerBtn, #editRegisterBtn
+{
+    background-color: #008CBA;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+#registerBtn
+{
+    color: #cccccc;   
+}
+
+#editRegisterBtn
+{
+    color: White;   
+}
+
+#backBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 20px;
+    float: left;
+}
+
+#skipBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 20px;
+    float: left;
+}
+
+#finishBtn
+{
+    background-color: #008CBA;
+    color: White;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+#saveLinesBtn
+{
+    float: right;   
+}
+
+.editButtonsDiv
+{
+    width: 1496px;
+    margin-bottom: 30px;
+    padding-left: 25px;
+}
+
+.loginDiv
+{
+    width: 275px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+    margin-top: 100px;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: Gray;
+}
+
+.loginDiv #userField, #passField
+{
+    float: right;
+}
+
+.buttonDiv
+{
+    text-align: center;   
+}
+
+.registerDiv
+{
+    width: 375px;
+}
+
+.linesDiv
+{
+    width: 666px;
+}
+
+#priceHeaderDiv
+{
+    text-align: center;   
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.registerDiv, .linesDiv
+{
+    padding-left: 25px;   
+}
+
+#linesDiv
+{
+    margin: 40px;
+    height: 200px;
+}
+
+#btnDiv
+{
+    margin-top: 10px;
+    float: right;
+}
+
+#searchBtn
+{
+    background-color: Gray;
+    color: White;
+    font-size: 15px;   
+}
+
+.mainDiv
+{
+    padding-left: 10px;   
+}
+
+.registerDiv #emailField, #responsibleField
+{
+    float: right;   
+}
+
+#basicDiv
+{
+    width: 350px;
+    padding-bottom: 85px;
+}
+
+#basicData, #extraData
+{
+    width: 425px;   
+}
+
+#basicData input
+{
+    float: right;
+    width: 275px;  
+}
+
+#extraData input
+{
+    float: right;
+    width: 275px;
+}
+
+.check-box1 input[type="checkbox"] {
+    float: none !important;
+    width: 121px !important;
+}
+
+.check-box2 input[type="checkbox"] {
+    float: none !important;
+    width: 102px !important;
+}
+
+.check-box3 input[type="checkbox"] {
+    float: none !important;
+    width: 43px !important;
+}
+
+#includedField, #notIncludedField
+{
+    height: 130px;   
+}
+
+#notesField
+{
+    height: 175px;
+}
+
+#includedField, #notIncludedField, #notesField
+{
+    width: 100%;   
+}
+
+.entryDataClass
+{
+    margin-bottom: 15px;   
+}
+
+.entryDataClass label
+{
+    margin: auto 0;
+}
+
+.headerLbl
+{
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+.gridStyle
+{
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+}
+.gridStyle th
+{
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #d5e3e4 0%, #ccdee0 40%, #b3c8cc 100%) repeat scroll 0 0;
+    border: 1px solid #999999;
+    padding: 0;
+    text-align: center;
+}
+
+.gridStyle td
+{	
+	border-width: 1px;
+	padding: 8px 20px 8px 20px;
+	border-style: solid;
+	border-color: #999999;	
+}
+
+#packsDiv
+{
+    margin: 0 auto;
+    width: 50%;   
+}
+
+.entryDataClass label 
+{
+    margin-bottom: 0;
+    margin-top: 5px;   
+}
+
+.flightsGrid
+{
+    font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+}
+
+.flightsGrid th
+{
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #d5e3e4 0%, #ccdee0 40%, #b3c8cc 100%) repeat scroll 0 0;
+    border: 1px solid #999999;
+    padding: 0;
+    text-align: center;
+}
+
+.flightsGrid td
+{
+    border-width: 1px;
+	padding: 8px 20px 8px 20px;
+	border-style: solid;
+	border-color: #999999;
+}
+
+#itinTbl
+{
+    width: 45%;   
+}
+
+#itinTbl th
+{
+    text-align: center;   
+}
+
+.pricesTbl, .pricesTbl th, .pricesTbl td
+{
+    padding: 5px!important;
+}
+
+.pricesTbl th, .pricesTbl td
+{
+    text-align: center!important;
+}
+
+#hideDiv, #linesGridDiv
+{
+    margin-bottom: 35px;   
+}
+
+#nightsDiv
+{
+    margin-bottom: 5px;   
+}
+
+#destinyDiv
+{
+    margin-bottom: 10px;   
+}
+
+#uploadBtn
+{
+    background-color: Gray;
+    color: White;
+    font-size: 15px;
+    width: 144px;
+    margin-left: 25px; 
+}
+
+.flightBtn
+{
+    float: right;
+    margin-right: 5px;
+    background-color: #e6e6e6;
+    color: Red;  
+}
+
+.flightExtra
+{
+    margin-top: 10px;   
+}
+
+#flightBtn, #lineBtn
+{
+    background-color: Gray;
+    color: White;
+    font-size: 15px;   
+}
+
+.dateSelector
+{
+    width: 175px;
+    height: 20px;
+}
+
+#shipSelector
+{
+    width: 231px;
+}
+    
+.arrowUp, .arrowDown
+{
+    color: #34495e;
+    position: relative;
+    display: block;
+    margin: 3px auto;
+    font-size: 18px;
+    cursor: pointer;   
+}
+
+#sailField
+{
+    width: 231px;  
+}
+
+#pricesDlg
+{
+    width: 1400px;   
+}
+
+#nameDiv, #shipDiv, #sailDiv
+{
+    margin-bottom: 25px;   
+}
+
+.flightDetailsDiv
+{
+    padding-left: 10px;   
+}
+
+.fadeClass {
+    background: #000000 none repeat scroll 0 0;
+    height: 100%;
+    left: 0;
+    opacity: 0.4;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+.popupClass {
+    background-color: #ffffff;
+    display: block;
+    left: 50%;
+    margin-left: -200px;
+    opacity: 1;
+    position: fixed;
+    top: 180px;
+    width: 400px;
+    z-index: 1100000;
+    text-align: center;
+    border-style: solid;
+}
+
+.linesClass
+{
+    background-color: #ffffff;
+    display: block;
+    left: 50%;
+    margin-left: -300px;
+    opacity: 1;
+    position: fixed;
+    top: 180px;
+    width: 665px;
+    height: 310px;
+    z-index: 1100000;
+    border-style: solid;
+}
+
+.popupButtons
+{
+    text-align: center;   
+}
+
+#saveImagesBtn
+{
+    background-color: #008cba;
+    color: White;
+    font-size: 18px;
+    width: 170px;   
+}
+
+.imagesClass {
+    background-color: #ffffff;
+    left: 50%;
+    margin-left: -200px;
+    opacity: 1;
+    position: fixed;
+    top: 180px;
+    width: 450px;
+    height: 250px;
+    z-index: 1100000;
+    text-align: center;
+    font-weight: bold;
+    border-style: solid;
+}
+
+.pricesClass {
+    background-color: #ffffff;
+    border-style: solid;
+    display: block;
+    left: 50%;
+    margin-left: -590px;
+    opacity: 1;
+    position: fixed;
+    top: 180px;
+    width: 1190px;
+    z-index: 1100000;
+}
+
+#pricesPanel
+{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    margin-right: 0;
+    right: 245px;
+    width: 1400px;
+    height: 475px;
+}
+
+#linesPanel
+{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    height: 405px;
+    width: 730px;
+}
+
+#pricesDiv
+{
+    margin: 40px;
+    height: 285px;
+}
+
+/*#flightBasicDiv input, #flightExtraDiv input
+{
+    border: 1px solid #ccc;
+    border-radius: 4px;   
+}*/
+
+#saveBtn 
+{
+    float: right;   
+}
+
+#repDiv
+{
+    overflow: auto;
+    max-height: 600px;
+}
+
+#priceButtonsDiv {
+    height: 30px;
+    margin-top: 20px;
+}
+
+#msgLbl
+{
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+#confirmLbl
+{
+    font-size: 18px;   
+}
+
+.msgDiv {
+    margin: 40px;
+    text-align: left;
+}
+
+.msgBtn
+{
+    background-color: #008cba;
+    color: White;
+    font-size: 20px;
+    width: 150px;  
+}
+
+#imagesDiv
+{
+    margin: 10px;   
+}
+
+#img1, #img2, #img3, #img4, #img5
+{
+    margin-bottom: 14px;
+}
+
+#itinNameDiv
+{
+    margin-bottom: 30px;   
+}
+
+.imgStyle
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 35px;   
+}
+
+.buttonsDiv
+{
+    margin: 0 auto;
+    width: 50%;   
+}
+
+#buttonsDiv
+{
+    margin-bottom: 30px;   
+}
+
+#flightsHeader
+{
+    width: 250px;   
+}
+
+#flightsHeader select
+{
+    float: right;
+}
+
+#itinDiv
+{
+    margin-bottom: 30px;   
+}
+.itinDiv {
+    margin-bottom: 30px;
+}
+
+.flightsTable
+{
+    border-collapse: collapse;
+    width: 65%;
+}
+
+.editMultiplePackagesCheckBox input
+{
+    float: none !important;
+    width: inherit !important;
+}
+
+.pricesTableStyle input[type=text]
+{
+    width: 100px
+}
+
+.pricesTableStyle th
+{
+    width: 130px
+}
